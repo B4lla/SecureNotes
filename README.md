@@ -7,10 +7,11 @@ All notes are encrypted client-side before being sent to the server, ensuring co
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/login.png" alt="Login Page" width="400">
-  <img src="screenshots/register.png" alt="Register Page" width="400">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="400">
-  <img src="screenshots/modal.png" alt="Create Note" width="400">
+  <img src="screenshots/login.png" alt="Login Page" width="600">
+  <img src="screenshots/register.png" alt="Register Page" width="600">
+  <br>
+  <img src="screenshots/dashboard.png" alt="Dashboard">
+  <img src="screenshots/modal.png" alt="Create Note" width="700">
 </p>
 
 ## Prerequisites
